@@ -1,7 +1,7 @@
 
 const FULL_DASH_ARRAY = 283;
-const WARNING_THRESHOLD = 10;
-const ALERT_THRESHOLD = 5;
+const WARNING_THRESHOLD = 600;
+const ALERT_THRESHOLD = 200;
 
 const COLOR_CODES = {
   info: {

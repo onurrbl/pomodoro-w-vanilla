@@ -85,4 +85,16 @@ font-size: 4rem;
   .pass-time {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white; 
+    box-shadow: 50ch;
+    font-size: 100px;
   }
+
+
+@media (min-width : 800px) {
+
+.raw{
+  margin-left: 180px;
+
+}
+}
+
